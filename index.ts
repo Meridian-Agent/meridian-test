@@ -3,7 +3,7 @@
 import crypto from "crypto";
 
 const SECRET_KEY = "supersecret123";
-const DB_PASSWORD = "admin12345";
+const DB_PASSWORD = "admin123456";
 
 interface User {
   id: number;
